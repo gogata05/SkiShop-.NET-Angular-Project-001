@@ -9,13 +9,13 @@ import { CartComponent } from './features/cart/cart.component';
 import { CheckoutComponent } from './features/checkout/checkout.component';
 
 export const routes: Routes = [
-  { path: '', component: HomeComponent },
-  { path: 'shop', component: ShopComponent },
-  { path: 'shop/:id', component: ProductDetailsComponent },
-  { path: 'cart', component: CartComponent },
-  { path: 'checkout', component: CheckoutComponent },
-  { path: 'test-error', component: TestErrorComponent },
-  { path: 'not-found', component: NotFoundComponent },
-  { path: 'server-error', component: ServerErrorComponent },
-  { path: '**', redirectTo: 'not-found', pathMatch: 'full' },
+    {path: '', component: HomeComponent},
+    {path: 'shop', component: ShopComponent},
+    {path: 'shop/:id', component: ProductDetailsComponent},
+    {path: 'cart', component: CartComponent},
+    {path: 'checkout', component: CheckoutComponent},
+    {path: 'test-error', component: TestErrorComponent},
+    {path: 'not-found', component: NotFoundComponent},
+    {path: 'server-error', component: ServerErrorComponent},
+    {path: '**', redirectTo: 'not-found', pathMatch: 'full'},
 ];
