@@ -17,6 +17,8 @@ export class InitService {
     return forkJoin({
       cart: cart$,
       user: this.accountService.getUserInfo()
-    });
+    })
   }
+
+
 }

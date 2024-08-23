@@ -11,21 +11,24 @@ import { lastValueFrom } from 'rxjs';
 import { authInterceptor } from './core/interceptors/auth.interceptor';
 
 function initializeApp(initService: InitService) {
-  return () =>
-    lastValueFrom(initService.init()).finally(() => {
-      const splash = document.getElementById('initial-splash');
-      if (splash) {
-        splash.remove();
-      }
-    });
+  return () => lastValueFrom(initService.init()).finally(() => {
+    const splash = document.getElementById('initial-splash');
+    if (splash) {
+      splash.remove();
+    }
+  })
 }
 
 export const appConfig: ApplicationConfig = {
   providers: [
-    provideZoneChangeDetection({ eventCoalescing: true }),
-    provideRouter(routes),
+    provideZoneChangeDetection({ eventCoalescing: true }), 
+    provideRouter(routes), 
     provideAnimationsAsync(),
-    provideHttpClient(withInterceptors([errorInterceptor, loadingInterceptor, authInterceptor])),
+    provideHttpClient(withInterceptors([
+      errorInterceptor, 
+      loadingInterceptor,
+      authInterceptor
+    ])),
     {
       provide: APP_INITIALIZER,
       useFactory: initializeApp,
