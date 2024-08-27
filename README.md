@@ -13,10 +13,10 @@ Below are some screenshots of the application:
    ![Cart](wwwroot/images/photos/2Cart.png)
 
 3. **Order Step 1 - Add Address**
-   ![Order Step 1 - Add Address](/API/wwwroot/images/photos/3Order Step 1 - Add Address.png)
+   ![Order Step 1 - Add Address](API/wwwroot/images/photos/3Order Step 1 - Add Address.png)
 
 4. **Order Step 2 - Shipping Type**
-   ![Order Step 2 - Shipping Type](/APIwwwroot/images/photos/4Order Step 2 - Shipping Type.png)
+   ![Order Step 2 - Shipping Type](/API/wwwroot/images/photos/4Order Step 2 - Shipping Type.png)
 
 5. **Order Step 3 - Stripe Payment**
    ![Order Step 3 - Stripe Payment](/APIwwwroot/images/photos/5Order Step 3 - Stripe Payment.png)
