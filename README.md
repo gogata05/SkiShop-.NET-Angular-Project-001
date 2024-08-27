@@ -22,47 +22,47 @@ Below are some screenshots of the application:
    ![Order Step 3 - Stripe Payment](/API/wwwroot/images/photos/5Order%20Step%203%20-%20Stripe%20Payment.png)
 
 6. **Order Step 4 - Confirmation**
-   ![Order Step 4 - Confirmation](/APIwwwroot/images/photos/6Order Step 4 - Confirmation.png)
+   ![Order Step 4 - Confirmation](/API/wwwroot/images/photos/6Order%20Step%204%20-%20Confirmation.png)
 
 7. **Discount**
-   ![Discount](/APIwwwroot/images/photos/7Discount.png)
+   ![Discount](/API/wwwroot/images/photos/7Discount.png)
 
 8. **Product Details**
-   ![Product Details](/APIwwwroot/images/photos/9Product Details.png)
+   ![Product Details](/API/wwwroot/images/photos/9Product%20Details.png)
 
 9. **Filters**
-   ![Filters](/APIwwwroot/images/photos/10Filters.png)
+   ![Filters](/API/wwwroot/images/photos/10Filters.png)
 
 10. **Sorting 1**
-    ![Sorting 1](/APIwwwroot/images/photos/11Sorting1.png)
+    ![Sorting 1](/API/wwwroot/images/photos/11Sorting1.png)
 
 11. **Sorting 2**
-    ![Sorting 2](/APIwwwroot/images/photos/12Sorting2.png)
+    ![Sorting 2](/API/wwwroot/images/photos/12Sorting2.png)
 
 12. **Dropdown**
-    ![Dropdown](/APIwwwroot/images/photos/13Dropdown.png)
+    ![Dropdown](/API/wwwroot/images/photos/13Dropdown.png)
 
 13. **Home**
-    ![Home](/APIwwwroot/images/photos/14Home.png)
+    ![Home](/API/wwwroot/images/photos/14Home.png)
 
 14. **Login**
-    ![Login](/APIwwwroot/images/photos/15Login.png)
+    ![Login](/API/wwwroot/images/photos/15Login.png)
 
 15. **Register**
-    ![Register](/APIwwwroot/images/photos/16Register.png)
+    ![Register](/API/wwwroot/images/photos/16Register.png)
 
 16. **Order Confirmation**
-    ![Order Confirmation](/APIwwwroot/images/photos/17Order Confirmation.png)
+    ![Order Confirmation](/API/wwwroot/images/photos/17Order%20Confirmation.png)
 
 17. **Orders**
-    ![Orders](/APIwwwroot/images/photos/18Orders.png)
+    ![Orders](/API/wwwroot/images/photos/18Orders.png)
 
 18. **Order Details**
-    ![Order Details](/APIwwwroot/images/photos/19Order Details.png)
+    ![Order Details](/API/wwwroot/images/photos/19Order%20Details.png)
 
 ## How to Run
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/SKINET-NET-ANGULAR-PROJECT-001.git
+   git clone https://github.com/gogata05/Ski_Shop-.NET-Angular-Project-001.git
    ```
