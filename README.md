@@ -7,19 +7,19 @@ This project is a full-stack application built with .NET on the backend and Angu
 Below are some screenshots of the application:
 
 1. **Dashboard**
-   ![Dashboard](wwwroot/images/photos/1Dashboard.png)
+   ![Dashboard](API/wwwroot/images/photos/1Dashboard.png)
 
 2. **Cart**
-   ![Cart](wwwroot/images/photos/2Cart.png)
+   ![Cart](API/wwwroot/images/photos/2Cart.png)
 
 3. **Order Step 1 - Add Address**
-   ![Order Step 1 - Add Address](API/wwwroot/images/photos/3Order Step 1 - Add Address.png)
+   ![Order Step 1 - Add Address](API/wwwroot/images/photos/3Order%20Step%201%20-%20Add%20Address.png)
 
 4. **Order Step 2 - Shipping Type**
-   ![Order Step 2 - Shipping Type](/API/wwwroot/images/photos/4Order Step 2 - Shipping Type.png)
+   ![Order Step 2 - Shipping Type](/API/wwwroot/images/photos/4Order%20Step%202%20-%20Shipping%20Type.png)
 
 5. **Order Step 3 - Stripe Payment**
-   ![Order Step 3 - Stripe Payment](/APIwwwroot/images/photos/5Order Step 3 - Stripe Payment.png)
+   ![Order Step 3 - Stripe Payment](/API/wwwroot/images/photos/5Order%20Step%203%20-%20Stripe%20Payment.png)
 
 6. **Order Step 4 - Confirmation**
    ![Order Step 4 - Confirmation](/APIwwwroot/images/photos/6Order Step 4 - Confirmation.png)
