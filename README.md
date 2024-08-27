@@ -59,10 +59,3 @@ Below are some screenshots of the application:
 
 18. **Order Details**
     ![Order Details](/API/wwwroot/images/photos/19Order%20Details.png)
-
-## How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/gogata05/Ski_Shop-.NET-Angular-Project-001.git
-   ```
