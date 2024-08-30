@@ -1,6 +1,50 @@
-# SKINET-NET-ANGULAR-PROJECT-001
+# Ski_Shop-NET-ANGULAR-PROJECT-001
+
+## Introduction
 
 This project is a full-stack application built with .NET on the backend and Angular on the frontend. It serves as an e-commerce platform with features like user authentication, product browsing, and an integrated shopping cart.
+
+## Features
+
+- .NET REST API
+- Angular
+- TypeScript
+- Stripe Payment and Discounts
+- Filters, Sorting, Pagination
+- Roles
+
+## How to use?
+
+- 0.Download the repository, extract it to folder and open with Visual Studio Code
+
+Open Terminal in "API" folder:
+
+- 1.Add appsetting.json with:
+
+```
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Information"
+    }
+  },
+  "StripeSettings": {
+    "PublishableKey": "Your PublishableKey",
+    "SecretKey": "Your SecretKey",
+    "WhSecret": "Your WhSecret"
+  },
+  "AllowedHosts": "*"
+}
+```
+
+- 2.dotnet run
+
+Open Terminal in "client" folder:
+
+- 1.npm install
+- 2.ng serve
+- 3.Start on: https://localhost:4200/
 
 ## Screenshots
 
