@@ -1,4 +1,6 @@
-# Ski_Shop-NET-ANGULAR-PROJECT-001
+Ski_Shop-.NET-Angular-Project-001
+
+# Ski_Shop
 
 ## Introduction
 
