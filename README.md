@@ -46,9 +46,7 @@ Open Terminal in "client" folder:
 - 2.ng serve
 - 3.Start on: https://localhost:4200/
 
-## Screenshots
-
-Below are some screenshots of the application:
+## Photos
 
 1. **Dashboard**
    ![Dashboard](API/wwwroot/images/photos/1Dashboard.png)
